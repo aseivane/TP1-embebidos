@@ -17,4 +17,4 @@ Para solucionar este probelma, se procedio a generar un nuevo archivo vacío y s
 
 ## Máquina de Estados TP Final
 
-![Imagen](Maquina de Estados.jpg)
+![](Maquina de Estados.jpg)
