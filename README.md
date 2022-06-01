@@ -16,7 +16,7 @@ Para solucionar este probelma, se procedio a generar un nuevo archivo vacío y s
 
 
 2. ### 4_buttons
-* [Desarrollo y Conclusión]()
+* [Desarrollo y Conclusión](https://github.com/Ezequiel1506/TP1-embebidos/blob/main/4_buttons/Altamirano_Readme.md)
 
 ## Máquina de Estados TP Final
 
