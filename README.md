@@ -15,6 +15,9 @@ Para solucionar este probelma, se procedio a generar un nuevo archivo vacío y s
 * [Desarrollo y Conclusión](https://github.com/aseivane/TP1-embebidos/blob/main/5_application/Desarrollo_Jannello.md#ejecuci%C3%B3n-de-m%C3%A1quina-de-estados)
 
 
+2. ### 4_buttons
+* [Desarrollo y Conclusión]()
+
 ## Máquina de Estados TP Final
 
 ![](Maquina de Estados.jpg)
