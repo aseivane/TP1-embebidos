@@ -17,4 +17,4 @@ Para solucionar este probelma, se procedio a generar un nuevo archivo vacío y s
 
 ## Máquina de Estados TP Final
 
-![](Maquina de Estados.jpg)
+![](https://github.com/aseivane/TP1-embebidos/blob/main/Maquina%20de%20Estados.jpg)
